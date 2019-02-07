@@ -1,5 +1,13 @@
 <!doctype html>
-<html lang="en">
+<div style="background-color:#7bceeb;">
+<!--[if gte mso 9]>
+ <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="mso-width-percent:1000;">
+ <v:fill type="frame" src="/Users/oana/work/insight/git/LevelMiNotes/DSC_0588.jpg"color="#7bceeb" />
+ <v:textbox style="mso-fit-shape-to-text:true" inset="0,0,0,0">
+     <![endif]-->
+ <table height="100%" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+  <td valign="top" align="le<html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -9,52 +17,22 @@
 
     <title>LevelMiNotes</title>
 
-    <!-- Bootstrap core CSS -->
-    <link href="../static/css/starter-template.css" rel="stylesheet">
+
 
     <!-- Custom styles for this template -->
-    <link href="starter-template.css" rel="stylesheet">
+    <link href="/static/css/starter-template.css" rel="stylesheet">
   </head>
 
   <body>
 
-    <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
-      <a class="navbar-brand" href="#">Navbar</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
 
-      <div class="collapse navbar-collapse" id="navbarsExampleDefault">
-        <ul class="navbar-nav mr-auto">
-          <li class="nav-item active">
-            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link disabled" href="#">Disabled</a>
-          </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="https://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</a>
-            <div class="dropdown-menu" aria-labelledby="dropdown01">
-              <a class="dropdown-item" href="#">Action</a>
-              <a class="dropdown-item" href="#">Another action</a>
-              <a class="dropdown-item" href="#">Something else here</a>
-            </div>
-          </li>
-        </ul>
-        <form class="form-inline my-2 my-lg-0">
-          <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
-          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-        </form>
-      </div>
-    </nav>
-<br><br>
+
+
+<br>
 <div class="container">
 <div class="starter-template">
-    <h2>Output Page</h2>
-    <p>Enter some user input</p>
+    <h2>Analyzing file:</h2>
+    <p class="lead">{{fName}}</p>
 </div>
 
 
@@ -63,17 +41,14 @@
 
 <div class="container">
   <div class="starter-template">
-    <h3>K-nearest neighbors classification results:</h3>
-    <p class="lead">The predicted difficulty level (on a scale of 1 = easy to 3 = hard) for the piece you uploaded is {{predictedDifficulty}} <br> The probability for this prediction is {{predictionProba}}</p>
+    <h3>Predicted difficulty level: <br>  {{predictedDifficulty}}   </h3>
+    <h5>File name: <br>  {{picFile}}   </h5>
+    <img src="{{ url_for('static', filename='images/new_plot.png') }}"></img>
+
   </div>
 
 
-  <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
-  <script src="static/js/bootstrap.min.js"></script>
-
-
- </div><!-- /.container -->
-
+</div> <!-- /.container-->
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
@@ -82,4 +57,13 @@
     <script src="../../assets/js/vendor/popper.min.js"></script>
     <script src="static/js/bootstrap.min.js"></script>
   </body>
+</td>
+</tr>
+</table>
+<!--[if gte mso 9]>
+</v:textbox>
+</v:rect>
+<![endif]-->
+</div>
+
 </html>

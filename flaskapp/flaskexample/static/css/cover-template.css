@@ -1,0 +1,11 @@
+body{
+  background-image: "/Users/oana/work/insight/git/LevelMiNotes/DSC_0588.jpg" color="#7bceeb";
+  width:100%;
+  background-size: cover;
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        background-size: auto;
+    }
+}

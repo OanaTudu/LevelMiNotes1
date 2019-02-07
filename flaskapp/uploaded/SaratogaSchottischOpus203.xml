@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?><mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:rights="http://www.loc.gov/rights/" xmlns:pm="http://www.loc.gov/mets/profiles/printMaterial" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:lc="http://www.loc.gov/mets/profiles" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:mxe="http://www.loc.gov/mxe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OBJID="loc.music.sm1854.730990" PROFILE="lc:printMaterial">
+  <mets:metsHdr LASTMODDATE="2013-09-06T12:09:09.801461-04:00"/>
+  <mets:dmdSec ID="MARC1">
+    <mets:mdWrap MDTYPE="MARC">
+      <mets:xmlData>
+	<mxe:record>
+	  <mxe:leader>
+	    <mxe:leader_cp00>0</mxe:leader_cp00>
+	    <mxe:leader_cp01>1</mxe:leader_cp01>
+	    <mxe:leader_cp02>0</mxe:leader_cp02>
+	    <mxe:leader_cp03>8</mxe:leader_cp03>
+	    <mxe:leader_cp04>5</mxe:leader_cp04>
+	    <mxe:leader_cp05>n</mxe:leader_cp05>
+	    <mxe:leader_cp06>c</mxe:leader_cp06>
+	    <mxe:leader_cp07>a</mxe:leader_cp07>
+	    <mxe:leader_cp08/>
+	    <mxe:leader_cp09/>
+	    <mxe:leader_cp10>2</mxe:leader_cp10>
+	    <mxe:leader_cp11>2</mxe:leader_cp11>
+	    <mxe:leader_cp12>0</mxe:leader_cp12>
+	    <mxe:leader_cp13>0</mxe:leader_cp13>
+	    <mxe:leader_cp14>3</mxe:leader_cp14>
+	    <mxe:leader_cp15>0</mxe:leader_cp15>
+	    <mxe:leader_cp16>1</mxe:leader_cp16>
+	    <mxe:leader_cp17>3</mxe:leader_cp17>
+	    <mxe:leader_cp18/>
+	    <mxe:leader_cp19/>
+	    <mxe:leader_cp20>4</mxe:leader_cp20>
+	    <mxe:leader_cp21>5</mxe:leader_cp21>
+	    <mxe:leader_cp22>0</mxe:leader_cp22>
+	    <mxe:leader_cp23>0</mxe:leader_cp23>
+	  </mxe:leader>
+	  <mxe:controlfield_001>sm1854730990</mxe:controlfield_001>
+	  <mxe:controlfield_003>DLC</mxe:controlfield_003>
+	  <mxe:controlfield_005>20130906120909.0</mxe:controlfield_005>
+	  <mxe:controlfield_007>
+	    <mxe:c007_cp00>c</mxe:c007_cp00>
+	    <mxe:c007_cp01>r</mxe:c007_cp01>
+	    <mxe:c007_cp02>|</mxe:c007_cp02>
+	    <mxe:c007_cp03>|</mxe:c007_cp03>
+	    <mxe:c007_cp04>|</mxe:c007_cp04>
+	    <mxe:c007_cp05>|</mxe:c007_cp05>
+	  </mxe:controlfield_007>
+	  <mxe:controlfield_008>
+	    <mxe:c008_cp00>0</mxe:c008_cp00>
+	    <mxe:c008_cp01>0</mxe:c008_cp01>
+	    <mxe:c008_cp02>1</mxe:c008_cp02>
+	    <mxe:c008_cp03>0</mxe:c008_cp03>
+	    <mxe:c008_cp04>0</mxe:c008_cp04>
+	    <mxe:c008_cp05>6</mxe:c008_cp05>
+	    <mxe:c008_cp06>s</mxe:c008_cp06>
+	    <mxe:c008_cp07>1</mxe:c008_cp07>
+	    <mxe:c008_cp08>8</mxe:c008_cp08>
+	    <mxe:c008_cp09>5</mxe:c008_cp09>
+	    <mxe:c008_cp10>4</mxe:c008_cp10>
+	    <mxe:c008_cp11/>
+	    <mxe:c008_cp12/>
+	    <mxe:c008_cp13/>
+	    <mxe:c008_cp14/>
+	    <mxe:c008_cp15>n</mxe:c008_cp15>
+	    <mxe:c008_cp16>y</mxe:c008_cp16>
+	    <mxe:c008_cp17>u</mxe:c008_cp17>
+	    <mxe:c008_cp18/>
+	    <mxe:c008_cp19/>
+	    <mxe:c008_cp20/>
+	    <mxe:c008_cp21/>
+	    <mxe:c008_cp22/>
+	    <mxe:c008_cp23/>
+	    <mxe:c008_cp24/>
+	    <mxe:c008_cp25/>
+	    <mxe:c008_cp26/>
+	    <mxe:c008_cp27/>
+	    <mxe:c008_cp28/>
+	    <mxe:c008_cp29/>
+	    <mxe:c008_cp30>n</mxe:c008_cp30>
+	    <mxe:c008_cp31/>
+	    <mxe:c008_cp32/>
+	    <mxe:c008_cp33/>
+	    <mxe:c008_cp34/>
+	    <mxe:c008_cp35>#</mxe:c008_cp35>
+	    <mxe:c008_cp36>#</mxe:c008_cp36>
+	    <mxe:c008_cp37>#</mxe:c008_cp37>
+	    <mxe:c008_cp38/>
+	    <mxe:c008_cp39/>
+	  </mxe:controlfield_008>
+	  <mxe:datafield_035 ind1=" " ind2=" ">
+	    <mxe:d035_subfield_a>(FMlbTmq)00013859</mxe:d035_subfield_a>
+	  </mxe:datafield_035>
+	  <mxe:datafield_040 ind1=" " ind2=" ">
+	    <mxe:d040_subfield_a>DLC</mxe:d040_subfield_a>
+	    <mxe:d040_subfield_c>DLC</mxe:d040_subfield_c>
+	  </mxe:datafield_040>
+	  <mxe:datafield_050 ind1="0" ind2="0">
+	    <mxe:d050_subfield_a>Microfilm M 3106</mxe:d050_subfield_a>
+	  </mxe:datafield_050>
+	  <mxe:datafield_050 ind1="0" ind2="0">
+	    <mxe:d050_subfield_a>M1.A12Z vol. 49 Case Class</mxe:d050_subfield_a>
+	    <mxe:d050_subfield_3>original bound volumes</mxe:d050_subfield_3>
+	  </mxe:datafield_050>
+	  <mxe:datafield_051 ind1=" " ind2=" ">
+	    <mxe:d051_subfield_a>M 3106 reel 73</mxe:d051_subfield_a>
+	  </mxe:datafield_051>
+	  <mxe:datafield_100 ind1="1" ind2=" ">
+	    <mxe:d100_subfield_a>Bellak, Jas.</mxe:d100_subfield_a>
+	  </mxe:datafield_100>
+	  <mxe:datafield_245 ind1="1" ind2="0">
+	    <mxe:d245_subfield_a>Saratoga schottisch, with variations, op. 203 /</mxe:d245_subfield_a>
+	    <mxe:d245_subfield_c>by Jas. Bellak.</mxe:d245_subfield_c>
+	  </mxe:datafield_245>
+	  <mxe:datafield_260 ind1=" " ind2="0">
+	    <mxe:d260_subfield_a>New York:</mxe:d260_subfield_a>
+	    <mxe:d260_subfield_b>Horace Waters,</mxe:d260_subfield_b>
+	    <mxe:d260_subfield_c>1854.</mxe:d260_subfield_c>
+	  </mxe:datafield_260>
+	  <mxe:datafield_300 ind1=" " ind2=" ">
+	    <mxe:d300_subfield_a>1 score</mxe:d300_subfield_a>
+	  </mxe:datafield_300>
+	  <mxe:datafield_500 ind1=" " ind2=" ">
+	    <mxe:d500_subfield_a>From: Music Copyright Deposits, 1820-1860 (Microfilm M 3106)</mxe:d500_subfield_a>
+	  </mxe:datafield_500>
+	  <mxe:datafield_501 ind1=" " ind2=" ">
+	    <mxe:d501_subfield_a>In bound volumes: Copyright Deposits 1820-1860</mxe:d501_subfield_a>
+	  </mxe:datafield_501>
+	  <mxe:datafield_530 ind1=" " ind2=" ">
+	    <mxe:d530_subfield_a>Also available through the Library of Congress Web Site as facsimile page images.</mxe:d530_subfield_a>
+	  </mxe:datafield_530>
+	  <mxe:datafield_650 ind1=" " ind2="0">
+	    <mxe:d650_subfield_a>Schottisches</mxe:d650_subfield_a>
+	  </mxe:datafield_650>
+	  <mxe:datafield_650 ind1=" " ind2="0">
+	    <mxe:d650_subfield_a>Variations</mxe:d650_subfield_a>
+	  </mxe:datafield_650>
+	  <mxe:datafield_650 ind1=" " ind2="0">
+	    <mxe:d650_subfield_a>Piano music</mxe:d650_subfield_a>
+	  </mxe:datafield_650>
+	  <mxe:datafield_655 ind1=" " ind2="7">
+	    <mxe:d655_subfield_a>sheet music</mxe:d655_subfield_a>
+	    <mxe:d655_subfield_2>ihas</mxe:d655_subfield_2>
+	  </mxe:datafield_655>
+	  <mxe:datafield_852 ind1=" " ind2=" ">
+	    <mxe:d852_subfield_a>Library of Congress.</mxe:d852_subfield_a>
+	    <mxe:d852_subfield_b>Music Division.</mxe:d852_subfield_b>
+	  </mxe:datafield_852>
+	  <mxe:datafield_856 ind1="4" ind2="0">
+	    <mxe:d856_subfield_d>sm1854</mxe:d856_subfield_d>
+	    <mxe:d856_subfield_f>730990</mxe:d856_subfield_f>
+	    <mxe:d856_subfield_u>http://hdl.loc.gov/loc.music/sm1854.730990</mxe:d856_subfield_u>
+	  </mxe:datafield_856>
+	  <mxe:datafield_985 ind1=" " ind2=" ">
+	    <mxe:d985_subfield_a>music/sm1820</mxe:d985_subfield_a>
+	    <mxe:d985_subfield_e>ammem</mxe:d985_subfield_e>
+	  </mxe:datafield_985>
+	  <mxe:datafield_985 ind1=" " ind2=" ">
+	    <mxe:d985_subfield_e>songamerica</mxe:d985_subfield_e>
+	  </mxe:datafield_985>
+	  <mxe:datafield_985 ind1=" " ind2=" ">
+	    <mxe:d985_subfield_e>ihas</mxe:d985_subfield_e>
+	  </mxe:datafield_985>
+	  <mxe:datafield_985 ind1=" " ind2=" ">
+	    <mxe:d985_subfield_e>ls_sheet_music</mxe:d985_subfield_e>
+	  </mxe:datafield_985>
+	  <mxe:datafield_985 ind1=" " ind2=" ">
+	    <mxe:d985_subfield_e>mftn1820</mxe:d985_subfield_e>
+	  </mxe:datafield_985>
+	</mxe:record>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:dmdSec ID="MODS1">
+    <mets:mdWrap MDTYPE="MODS">
+      <mets:xmlData>
+	<mods:mods version="3.4">
+	  <mods:titleInfo>
+	    <mods:title>Saratoga schottisch, with variations, op. 203</mods:title>
+	  </mods:titleInfo>
+	  <mods:name type="personal" usage="primary">
+	    <mods:namePart>Bellak, Jas.</mods:namePart>
+	  </mods:name>
+	  <mods:typeOfResource>notated music</mods:typeOfResource>
+	  <mods:genre authority="ihas">sheet music</mods:genre>
+	  <mods:originInfo>
+	    <mods:place>
+	      <mods:placeTerm type="code" authority="marccountry">nyu</mods:placeTerm>
+	    </mods:place>
+	    <mods:place>
+	      <mods:placeTerm type="text">New York</mods:placeTerm>
+	    </mods:place>
+	    <mods:publisher>Horace Waters</mods:publisher>
+	    <mods:dateIssued>1854</mods:dateIssued>
+	    <mods:dateIssued encoding="marc">1854</mods:dateIssued>
+	    <mods:issuance>monographic</mods:issuance>
+	  </mods:originInfo>
+	  <mods:physicalDescription>
+	    <mods:form authority="marcform">print</mods:form>
+	    <mods:form authority="marccategory">electronic resource</mods:form>
+	    <mods:form authority="marcsmd">remote</mods:form>
+	    <mods:extent>1 score </mods:extent>
+	  </mods:physicalDescription>
+	  <mods:note>From: Music Copyright Deposits, 1820-1860 (Microfilm M 3106)</mods:note>
+	  <mods:note type="additional physical form">Also available through the Library of Congress Web Site as facsimile page images.</mods:note>
+	  <mods:note>In bound volumes: Copyright Deposits 1820-1860</mods:note>
+	  <mods:subject authority="lcsh">
+	    <mods:topic>Schottisches</mods:topic>
+	  </mods:subject>
+	  <mods:subject authority="lcsh">
+	    <mods:topic>Variations</mods:topic>
+	  </mods:subject>
+	  <mods:subject authority="lcsh">
+	    <mods:topic>Piano music</mods:topic>
+	  </mods:subject>
+	  <mods:classification authority="lcc">Microfilm M 3106</mods:classification>
+	  <mods:classification authority="lcc" displayLabel="original bound volumes">M1.A12Z vol. 49 Case Class</mods:classification>
+	  <mods:location>
+	    <mods:physicalLocation>Library of Congress. Music Division. </mods:physicalLocation>
+	  </mods:location>
+	  <mods:identifier type="membership">ammem</mods:identifier>
+	  <mods:identifier type="membership">songamerica</mods:identifier>
+	  <mods:identifier type="membership">ihas</mods:identifier>
+	  <mods:identifier type="membership">ls_sheet_music</mods:identifier>
+	  <mods:identifier type="membership">mftn1820</mods:identifier>
+	  <mods:recordInfo>
+	    <mods:recordContentSource authority="marcorg">DLC</mods:recordContentSource>
+	    <mods:recordCreationDate encoding="marc">001006</mods:recordCreationDate>
+	    <mods:recordChangeDate encoding="iso8601">20130906120909.0</mods:recordChangeDate>
+	    <mods:recordIdentifier source="DLC">sm1854730990</mods:recordIdentifier>
+	    <mods:recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+      (Revision 1.79 2012/07/11)</mods:recordOrigin>
+	  </mods:recordInfo>
+	</mods:mods>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:fileSec>
+    <mets:fileGrp USE="MASTER">
+      <mets:file ID="M1" GROUPID="G1" MIMETYPE="image/tiff">
+	<mets:FLocat LOCTYPE="URL" xlink:href="http://lcweb2.loc.gov/music/sm2/sm1854/730000/730990/001.tif"/>
+      </mets:file>
+      <mets:file ID="M2" GROUPID="G2" MIMETYPE="image/tiff">
+	<mets:FLocat LOCTYPE="URL" xlink:href="http://lcweb2.loc.gov/music/sm2/sm1854/730000/730990/002.tif"/>
+      </mets:file>
+      <mets:file ID="M3" GROUPID="G3" MIMETYPE="image/tiff">
+	<mets:FLocat LOCTYPE="URL" xlink:href="http://lcweb2.loc.gov/music/sm2/sm1854/730000/730990/003.tif"/>
+      </mets:file>
+      <mets:file ID="M4" GROUPID="G4" MIMETYPE="image/tiff">
+	<mets:FLocat LOCTYPE="URL" xlink:href="http://lcweb2.loc.gov/music/sm2/sm1854/730000/730990/004.tif"/>
+      </mets:file>
+      <mets:file ID="M5" GROUPID="G5" MIMETYPE="image/tiff">
+	<mets:FLocat LOCTYPE="URL" xlink:href="http://lcweb2.loc.gov/music/sm2/sm1854/730000/730990/005.tif"/>
+      </mets:file>
+      <mets:file ID="M6" GROUPID="G6" MIMETYPE="image/tiff">
+	<mets:FLocat LOCTYPE="URL" xlink:href="http://lcweb2.loc.gov/music/sm2/sm1854/730000/730990/006.tif"/>
+      </mets:file>
+      <mets:file ID="M7" GROUPID="G7" MIMETYPE="image/tiff">
+	<mets:FLocat LOCTYPE="URL" xlink:href="http://lcweb2.loc.gov/music/sm2/sm1854/730000/730990/007.tif"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="SERVICE">
+      <mets:file ID="S1" GROUPID="G1" MIMETYPE="image/tiff">
+	<mets:FLocat LOCTYPE="URL" xlink:href="/diglib/media/loc.music.sm1854.730990/001.tif"/>
+      </mets:file>
+      <mets:file ID="S2" GROUPID="G2" MIMETYPE="image/tiff">
+	<mets:FLocat LOCTYPE="URL" xlink:href="/diglib/media/loc.music.sm1854.730990/002.tif"/>
+      </mets:file>
+      <mets:file ID="S3" GROUPID="G3" MIMETYPE="image/tiff">
+	<mets:FLocat LOCTYPE="URL" xlink:href="/diglib/media/loc.music.sm1854.730990/003.tif"/>
+      </mets:file>
+      <mets:file ID="S4" GROUPID="G4" MIMETYPE="image/tiff">
+	<mets:FLocat LOCTYPE="URL" xlink:href="/diglib/media/loc.music.sm1854.730990/004.tif"/>
+      </mets:file>
+      <mets:file ID="S5" GROUPID="G5" MIMETYPE="image/tiff">
+	<mets:FLocat LOCTYPE="URL" xlink:href="/diglib/media/loc.music.sm1854.730990/005.tif"/>
+      </mets:file>
+      <mets:file ID="S6" GROUPID="G6" MIMETYPE="image/tiff">
+	<mets:FLocat LOCTYPE="URL" xlink:href="/diglib/media/loc.music.sm1854.730990/006.tif"/>
+      </mets:file>
+      <mets:file ID="S7" GROUPID="G7" MIMETYPE="image/tiff">
+	<mets:FLocat LOCTYPE="URL" xlink:href="/diglib/media/loc.music.sm1854.730990/007.tif"/>
+      </mets:file>
+    </mets:fileGrp>
+  </mets:fileSec>
+  <mets:structMap>
+    <mets:div DMDID="MODS1" TYPE="pm:printMaterialObject">
+      <mets:div TYPE="pm:printMaterial">
+	<mets:div TYPE="pm:page">
+	  <mets:fptr FILEID="M1"/>
+	  <mets:fptr FILEID="S1"/>
+	</mets:div>
+	<mets:div TYPE="pm:page">
+	  <mets:fptr FILEID="M2"/>
+	  <mets:fptr FILEID="S2"/>
+	</mets:div>
+	<mets:div TYPE="pm:page">
+	  <mets:fptr FILEID="M3"/>
+	  <mets:fptr FILEID="S3"/>
+	</mets:div>
+	<mets:div TYPE="pm:page">
+	  <mets:fptr FILEID="M4"/>
+	  <mets:fptr FILEID="S4"/>
+	</mets:div>
+	<mets:div TYPE="pm:page">
+	  <mets:fptr FILEID="M5"/>
+	  <mets:fptr FILEID="S5"/>
+	</mets:div>
+	<mets:div TYPE="pm:page">
+	  <mets:fptr FILEID="M6"/>
+	  <mets:fptr FILEID="S6"/>
+	</mets:div>
+	<mets:div TYPE="pm:page">
+	  <mets:fptr FILEID="M7"/>
+	  <mets:fptr FILEID="S7"/>
+	</mets:div>
+      </mets:div>
+    </mets:div>
+  </mets:structMap>
+</mets:mets>

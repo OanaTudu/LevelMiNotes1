@@ -1,5 +1,9 @@
-body {
-  padding-top: 50px;
+header.masthead{
+  padding-top: 10rem;
+  padding-bottom: calc(10rem-56px);
+  background-image: url('/Users/oana/work/insight/flaskapp/flaskexample/static/images/DSC_0588.jpg');
+  background-position: center center;
+  background-size: cover;
 }
 .starter-template {
   padding: 40px 15px;
